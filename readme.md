@@ -26,6 +26,6 @@ npm install
 
 ### 3. Usando os comandos
 
-O lâmpada mágica tem 3 comandos que controlam suas ações:
+O lâmpada mágica tem 1 comandos que controla suas ações:
 
 * _gulp monitorar_ - Esse comando serve para observar as pastas dos arquivos fontes e atualizar a pasta de desenvolvimento quando houver alguma mudança.

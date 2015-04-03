@@ -1,5 +1,13 @@
+.tmp
+.DS_Store
+*.log
 node_modules
-dist
-.tmp<% if (includeSass) { %>
-.sass-cache<% } %>
-bower_components
+build
+*.node
+.sass-cache
+*.css.map
+logs
+*.log
+.grunt
+*.sublime-project
+*.sublime-workspace
